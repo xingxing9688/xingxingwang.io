@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="zh"><head>
+  <meta charset="utf-8">
+  <title>Jenkins 语法</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="This is meta description">
+  
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Hugo 0.75.1" />
+  <!-- multilingual SEO optimizations -->
+  
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://xingxing.io/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://xingxing.io/plugins/slick/slick.css">
+  
+  <link rel="stylesheet" href="https://xingxing.io/plugins/animate/animate.css">
+  
+  <link rel="stylesheet" href="https://xingxing.io/plugins/venobox/venobox.css">
+  
+  <link rel="stylesheet" href="https://xingxing.io/plugins/themify-icons/themify-icons.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://xingxing.io/scss/style.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://xingxing.io/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://xingxing.io/images/favicon.png" type="image/x-icon">
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="https://xingxing.io/images/preloader.gif" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<header class="fixed-top header">
+  
+  
+  <div class="top-header py-2 bg-white">
+    <div class="container">
+      <div class="row no-gutters align-items-center">
+        <div class="col-lg-4 text-center text-lg-left">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-facebook"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-twitter-alt"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-instagram"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="https://github.com/xingxing122"><i class="ti-github"></i></a></li>
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-linkedin"></i></a></li>
+            
+          </ul>
+        </div>
+        <div class="col-lg-8 text-center text-lg-right">
+          <ul class="list-inline">
+            <li class="list-inline-item">
+              <a class="text-color mr-3" href="tel:"><strong>电话 : </strong> </a></li>
+            <li class="list-inline-item">
+              <a class="text-color" href="mailto:xingxingwang122@gmail.com"><strong>邮件 : </strong> xingxingwang122@gmail.com</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="navigation w-100  top-hider ">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark p-0">
+        <a class="navbar-brand" href="/zh"><img class="img-fluid"
+            src="https://xingxing.io/images/logo.png" alt=" Wang Linjie blog | 不忘初心 继续前行 "></a>
+        <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse text-center" id="navigation">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="https://xingxing.io">主页</a>
+            </li>
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://xingxing.io/zh/about">关于</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://xingxing.io/zh/%E4%B9%A6%E7%B1%8D">书籍</a>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                文章
+              </a>
+              <div class="dropdown-menu">
+                
+                <a class="dropdown-item" href="https://xingxing.io/zh/devops">devops</a>
+                
+                <a class="dropdown-item" href="https://xingxing.io/zh/linux">linux</a>
+                
+                <a class="dropdown-item" href="https://xingxing.io/zh/kubernetes">容器</a>
+                
+                <a class="dropdown-item" href="https://xingxing.io/zh/DB">数据库</a>
+                
+                <a class="dropdown-item" href="https://xingxing.io/zh/">监控</a>
+                
+              </div>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://xingxing.io/zh/blog">blog</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://xingxing.io/zh/%E8%81%94%E7%B3%BB">联系</a>
+            </li>
+            
+            
+          </ul>
+
+          
+          
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+	
+<section class="page-title-section overlay" style="background-image: url('/'),url('/images/backgrounds/page-title.jpg');" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <ul class="list-inline custom-breadcrumb">
+          <li class="list-inline-item h2"><a class="text-primary font-secondary" href="https://xingxing.io">主页</a></li>
+          <li class="list-inline-item h5"><i class="ti-angle-right text-white"></i></li>
+          <li class="list-inline-item text-white h3 font-secondary">Jenkins 语法</li>
+        </ul>
+        <p class="text-lighten"></p>
+      </div>
+    </div>
+  </div>
+</section>
+	
+
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 order-2 order-lg-1">
+        <div class="row">
+          <div class="col-12 mb-4">
+            <img src="/" alt="blog-thumb" class="img-fluid w-100">
+          </div>
+          <div class="col-12">
+            <ul class="list-inline">
+              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">作者
+                  :</span><a
+                  href="/zh/author/"></a></li>
+
+              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">日期
+                  :</span>04 Aug, 2020</li>
+
+              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">类别
+                  :</span><a
+                  href="/zh/categories/devops"> 
+                  Devops</a> </li>
+
+            </ul>
+          </div>
+          
+          <div class="col-12 my-4">
+            <div class="border-bottom"></div>
+          </div>
+          
+          <div class="col-12 mb-5">
+            <p>Jenkinsfile</p>
+<p>Jenkinsfile 组成</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">     指定node节点/workspace 
+     指定运行选项
+     指定运行选项
+     指定stages阶段
+     指定构建后操作
+</code></pre></div><p>#指定node 节点/workspace</p>
+<p>#agent</p>
+<pre><code class="language-bash " data-lang="bash ">pipeline {
+    agent { node { label &quot;master&quot;  // 指定运行节点的标签或者名称   
+                   customWorkspace &quot;${workspace}&quot;  //指定运行工作目录(可选)
+      }
+  }
+options{
+    timestamps()   // 日志会有时间
+    skipDefaultCheckout() //删除模式checkout  scm 语句
+    disableConcurrentBuilds() // 禁止并行
+    timeout(time: 1,uint: 'HOURS') //流水线超时设置1h
+}    
+</code></pre><p>#Pipeline 定义-stage</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">指定stages 阶段<span style="color:#f92672">(</span>一个或多个<span style="color:#f92672">)</span>
+模板添加了三个阶段
+* GetCode 
+* Build 
+* CodeScan 
+
+ stage <span style="color:#f92672">{</span>
+    //下载代码
+    stage <span style="color:#f92672">(</span><span style="color:#e6db74">&#34;GetCode&#34;</span><span style="color:#f92672">)</span> <span style="color:#f92672">{</span> // 阶段名称
+       steps <span style="color:#f92672">{</span>  //步骤
+         timeout<span style="color:#f92672">(</span>time:5,uint: <span style="color:#e6db74">&#34;MINUTES&#34;</span><span style="color:#f92672">)</span> <span style="color:#f92672">{</span>   //步骤超时时间
+             script<span style="color:#f92672">{</span>  // 填写运行代码
+                println<span style="color:#f92672">(</span>‘获取代码’<span style="color:#f92672">)</span>
+             <span style="color:#f92672">}</span>
+         <span style="color:#f92672">}</span>
+       <span style="color:#f92672">}</span>
+    <span style="color:#f92672">}</span>
+ <span style="color:#f92672">}</span>
+ 
+//构建
+stage<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;Build&#34;</span><span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+   steps<span style="color:#f92672">{</span>
+       timeout<span style="color:#f92672">(</span>time:20,uint:<span style="color:#e6db74">&#34;MINUTES&#34;</span><span style="color:#f92672">){</span>
+          script<span style="color:#f92672">{</span>
+             println<span style="color:#f92672">(</span><span style="color:#e6db74">&#39;应用打包&#39;</span><span style="color:#f92672">)</span>
+          <span style="color:#f92672">}</span>
+        <span style="color:#f92672">}</span>   
+      <span style="color:#f92672">}</span>
+   <span style="color:#f92672">}</span>
+
+//代码扫描
+stage<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;CodeScan&#34;</span><span style="color:#f92672">){</span>
+   steps<span style="color:#f92672">{</span>
+      timeout<span style="color:#f92672">(</span>time:30, unit:<span style="color:#e6db74">&#34;MINUTES&#34;</span><span style="color:#f92672">){</span>
+        script<span style="color:#f92672">{</span>
+         print<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;代码扫描&#34;</span><span style="color:#f92672">)</span>
+        <span style="color:#f92672">}</span>
+      <span style="color:#f92672">}</span>
+   <span style="color:#f92672">}</span> 
+ <span style="color:#f92672">}</span>
+</code></pre></div><p>#Pipeline 定义-post</p>
+<p>指定构建后操作</p>
+<p>解释:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">always<span style="color:#f92672">{}</span>:  总是执行脚本片段
+success<span style="color:#f92672">{}</span>: 成功后执行
+failure<span style="color:#f92672">{}</span>: 失败后执行
+aborted<span style="color:#f92672">{}</span>: 取消后执行
+
+currendBuild 是一个全局变量
+  description  构建描述
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">//构建后操作
+post<span style="color:#f92672">{</span>
+   always <span style="color:#f92672">{</span>
+    script<span style="color:#f92672">{</span>
+      println<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;always&#34;</span><span style="color:#f92672">)</span> 
+     <span style="color:#f92672">}</span>
+   <span style="color:#f92672">}</span>
+ <span style="color:#f92672">}</span>
+success<span style="color:#f92672">{</span>
+   script<span style="color:#f92672">{</span>
+    currentBuild.description +<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;\n 构建成功!&#34;</span>
+    <span style="color:#f92672">}</span>
+ <span style="color:#f92672">}</span>
+ failure <span style="color:#f92672">{</span>
+     script<span style="color:#f92672">{</span>
+       currentBuild.description   +<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;\n构建失败&#34;</span>   
+     <span style="color:#f92672">}</span>
+ <span style="color:#f92672">}</span>
+ aborted <span style="color:#f92672">{</span>
+     script <span style="color:#f92672">{</span>
+         currentBuild.description  +<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;\n 构建取消&#34;</span>
+     <span style="color:#f92672">}</span>
+ <span style="color:#f92672">}</span>
+</code></pre></div><p>Pipeline  语法-agent</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">agent <span style="color:#f92672">(</span>代理<span style="color:#f92672">)</span>
+  agent 指定了流水线的执行节点
+参数: 
+   any  在任何可用的节点上执行pipeline
+   node 没有指定agent的时候默认
+   label 指定标签上的节点运行Pipeline 
+   node  允许额外的选项
+   
+   这两种是一样的
+   agent <span style="color:#f92672">{</span>node <span style="color:#f92672">{</span>label <span style="color:#e6db74">&#39;labelname&#39;</span><span style="color:#f92672">}}</span>
+   agent <span style="color:#f92672">{</span> label <span style="color:#e6db74">&#39;labelname&#39;</span><span style="color:#f92672">}</span>   
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">post 
+定义一个或多个steps,这些阶段根据流水线的完成情况而运行<span style="color:#f92672">(</span>取决于post部分的位置<span style="color:#f92672">)</span>，post支持以下post-condition块中其中之一；always,changed,failure,success,unstable和aborted. 这些条件块允许在post 部分的步骤执行取决于流水线或阶段的完成状态
+
+   always  无论流水线或者阶段的完成状态
+   changed 只有当流水线或者阶段完成状态与之前不同时 
+   failure 只有当流水线或者阶段状态为<span style="color:#e6db74">&#34;failure&#34;</span>运行
+   success 只有当流水线或者阶段状态为<span style="color:#e6db74">&#34;success&#34;</span>运行
+   unstable 只有当流水线或者阶段状态为<span style="color:#e6db74">&#34;unstable&#34;</span>运行，如测试失败
+   aborted 只有当流水线或者阶段状态为<span style="color:#e6db74">&#34;aborted&#34;</span>运行， 手动取消
+   
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">stages<span style="color:#f92672">(</span>阶段<span style="color:#f92672">)</span>
+ 包含一系列一个或多个stage指令，建议stages至少包含一个stage 指定用于连续交付过程中的每个离散部分，比如构建 测试  和部署
+ pipeline <span style="color:#f92672">{</span>
+    agent any
+
+    stages <span style="color:#f92672">{</span>
+        stage<span style="color:#f92672">(</span><span style="color:#e6db74">&#39;Hello&#39;</span><span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+            steps <span style="color:#f92672">{</span>
+                echo <span style="color:#e6db74">&#39;Hello World&#39;</span>
+            <span style="color:#f92672">}</span>
+        <span style="color:#f92672">}</span>
+    <span style="color:#f92672">}</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">steps <span style="color:#f92672">(</span>步骤<span style="color:#f92672">)</span>
+step 是每个阶段中要执行的每个步骤
+ pipeline <span style="color:#f92672">{</span>
+    agent any
+
+    stages <span style="color:#f92672">{</span>
+        stage<span style="color:#f92672">(</span><span style="color:#e6db74">&#39;Example&#39;</span><span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+            steps <span style="color:#f92672">{</span>
+                echo <span style="color:#e6db74">&#39;Hello World&#39;</span>
+            <span style="color:#f92672">}</span>
+        <span style="color:#f92672">}</span>
+    <span style="color:#f92672">}</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><p>参数</p>
+<p><img src="https://xing-blog.oss-cn-beijing.aliyuncs.com/2020-08-28-092600.png" alt="image-20200828172559817"></p>
+<p>trigger 触发器</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">triggers <span style="color:#f92672">{</span> cron <span style="color:#f92672">(</span> <span style="color:#e6db74">&#39;H */4  * *  1-5  &#39;</span><span style="color:#f92672">)}</span>
+</code></pre></div><p>tool</p>
+<p>获取通过自动安装或手动放置工具的环境变量。支持maven/jdk/gradle，工具的名称必须在系统设置-全局工具配置中定义</p>
+<p>when</p>
+<p>when 指令允许流水线根据给定的条件决定是否应该执行阶段。 when指令必须包含至少一个条件。如果when 指令包含多个条件，所有的条件必须返回true，阶段才能执行</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">when <span style="color:#f92672">{</span>branch  <span style="color:#e6db74">&#39;master&#39;</span> <span style="color:#f92672">}</span>
+</code></pre></div><p>script</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">script 步骤需要<span style="color:#f92672">[</span>scripted-pipline <span style="color:#f92672">]</span> 块并在声明式中执行。对于大多数用例来说，应该声明式流水线中的<span style="color:#e6db74">&#34;脚本&#34;</span>步骤是不必要的，但是它可以提供一个有用的<span style="color:#e6db74">&#34;逃生出口&#34;</span>，非平凡的规模和/或复杂性的script 块应该被转移到共享库
+</code></pre></div>
+          </div>
+          
+          
+          <div class="col-12">
+            <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "educenter" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+          
+        </div>
+      </div>
+      <!-- sidebar -->
+<aside class="col-lg-4 order-1 order-lg-2">
+  <!-- categories -->
+  <div class="bg-white mb-5">
+    <h4 class="mb-4">分类</h4>
+    <ul class="list-unstyled">
+      <li class="border-bottom"><a href="/zh/categories/automation-system" class="d-block pb-3 mt-3">Automation system</a></li>
+      <li class="border-bottom"><a href="/zh/categories/deep-learning" class="d-block pb-3 mt-3">Deep learning</a></li>
+      <li class="border-bottom"><a href="/zh/categories/devops" class="d-block pb-3 mt-3">Devops</a></li>
+      <li class="border-bottom"><a href="/zh/categories/eco-system" class="d-block pb-3 mt-3">Eco system</a></li>
+      <li class="border-bottom"><a href="/zh/categories/education-system" class="d-block pb-3 mt-3">Education system</a></li>
+      <li class="border-bottom"><a href="/zh/categories/english-learning" class="d-block pb-3 mt-3">English learning</a></li>
+      <li class="border-bottom"><a href="/zh/categories/mathmatics-learning" class="d-block pb-3 mt-3">Mathmatics learning</a></li>
+      <li class="border-bottom"><a href="/zh/categories/name" class="d-block pb-3 mt-3">Name</a></li>
+    </ul>
+  </div>
+  <!-- tags -->
+  <div class="bg-white mb-5">
+    <h4 class="mb-4">标签</h4>
+    <ul class="list-inline tag-list">
+      <li class="list-inline-item mb-2"><a href="/zh/tags/advice">Advice</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/ai">Ai</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/automation">Automation</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/devops">Devops</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/eco">Eco</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/education">Education</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/english">English</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/name">Name</a></li>
+      <li class="list-inline-item mb-2"><a href="/zh/tags/rules">Rules</a></li>
+    </ul>
+  </div>
+  <!-- latest post -->
+  <div class="bg-white">
+    <h4 class="mb-4">最新文章</h4>
+    <!-- post-item -->
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <a href="https://xingxing.io/zh/blog/blog-post-1/"><img class="mr-3 post-thumb-sm" src="https://xingxing.io/images/blog/post-1.jpg"></a>
+      <div class="media-body">
+        <a href="https://xingxing.io/zh/blog/blog-post-1/">
+          <h5 class="mt-0">Dioramas de boîtes coupées élégantes</h5>
+        </a>
+        06 Jul 2019
+      </div>
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <a href="https://xingxing.io/zh/blog/blog-post-2/"><img class="mr-3 post-thumb-sm" src="https://xingxing.io/images/blog/post-2.jpg"></a>
+      <div class="media-body">
+        <a href="https://xingxing.io/zh/blog/blog-post-2/">
+          <h5 class="mt-0">Dioramas de boîtes coupées élégantes</h5>
+        </a>
+        06 Jul 2019
+      </div>
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <a href="https://xingxing.io/zh/blog/blog-post-3/"><img class="mr-3 post-thumb-sm" src="https://xingxing.io/images/blog/post-3.jpg"></a>
+      <div class="media-body">
+        <a href="https://xingxing.io/zh/blog/blog-post-3/">
+          <h5 class="mt-0">Dioramas de boîtes coupées élégantes</h5>
+        </a>
+        06 Jul 2019
+      </div>
+    </div>
+    
+  </div>
+</aside>
+<!-- /sidebar -->
+    </div>
+  </div>
+</section>
+
+
+
+<footer>
+  
+  
+  
+  <div class="newsletter">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 ml-auto bg-primary py-5 newsletter-block">
+          <h3 class="text-white">博客  RSS</h3>
+          <form action="https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;amp;id=a0a2c6d074" method="post" name="mc-embedded-subscribe-form" target="_blank">
+            <div class="input-wrapper">
+              <input type="email" class="form-control border-0" id="newsletter" name="newsletter" placeholder="邮件">
+              <button type="submit" name="subscribe" class="btn btn-primary">加入</button>
+              <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <input type="text" name="b_463ee871f45d2d93748e77cad_a0a2c6d074" tabindex="-1">
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  <div class="footer bg-footer section border-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+          
+          <a class="logo-footer" href="/zh"><img class="img-fluid mb-4" src="https://xingxing.io/images/logo.png" alt=" Wang Linjie blog | 不忘初心 继续前行 "></a>
+          <ul class="list-unstyled">
+            <li class="mb-4">CHINA Beijing</li>
+            <li class="mb-4"><a href="mailto:xingxingwang122@gmail.com">xingxingwang122@gmail.com</a></li>
+            <li class="mb-4"></li>
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">公司</h4>
+          <ul class="list-unstyled">
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/about">关于</a></li>
+            
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/%E4%B9%A6%E7%B1%8D">书籍</a></li>
+            
+            
+            
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/blog">blog</a></li>
+            
+            
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/%E8%81%94%E7%B3%BB">联系</a></li>
+            
+            
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">链接</h4>
+          <ul class="list-unstyled">
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/event">event</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/notice">notice</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/research">research</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/scholarship">scholarship</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/teacher">teacher</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">培训班</h4>
+          <ul class="list-unstyled">
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/course/course-5/">Algorithme</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/course/course-3/">Intelligence artificielle</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/course/course-4/">JavaScript</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/course/course-2/">Mathématiques</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/course/course-1/">Photographie</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">新人</h4>
+          <ul class="list-unstyled">
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/notice/notice-1/">Matériaux d’enseignement et méthodes de test</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/notice/notice-2/">Matériaux d’enseignement et méthodes de test</a></li>
+            
+            <li class="mb-3"><a class="text-color" href="https://xingxing.io/zh/notice/notice-3/">Matériaux d’enseignement et méthodes de test</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="copyright py-4 bg-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7 text-sm-left text-center">
+          <p class="mb-0">Copyright © 2020 a hugo theme by <a href="https://themefisher.com">themefisher</a></p>
+        </div>
+        <div class="col-sm-5 text-sm-right text-center">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="#"><i class="ti-facebook text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="#"><i class="ti-twitter-alt text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="#"><i class="ti-instagram text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="https://github.com/xingxing122"><i class="ti-github text-primary"></i></a></li>
+            
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="#"><i class="ti-linkedin text-primary"></i></a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- Google Map API -->
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+
+
+<!-- JS Plugins -->
+
+<script src="https://xingxing.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://xingxing.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://xingxing.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://xingxing.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://xingxing.io/plugins/filterizr/jquery.filterizr.min.js"></script>
+
+<script src="https://xingxing.io/plugins/google-map/gmap.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://xingxing.io/js/script.min.js"></script>
+
+<!-- google analitycs -->
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+</body>
+
+</html>
