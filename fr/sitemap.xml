@@ -8,7 +8,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/"
+                href="https://xingxing.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,7 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/advice/"
+                href="https://xingxing.io/en/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,7 +48,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/ai/"
+                href="https://xingxing.io/en/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-5/"
+                href="https://xingxing.io/en/course/course-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,7 +83,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/automation/"
+                href="https://xingxing.io/en/tags/automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/automation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,7 +103,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/automation-system/"
+                href="https://xingxing.io/en/categories/automation-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/automation-system/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -98,7 +123,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/"
+                href="https://xingxing.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -113,7 +143,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-1/"
+                href="https://xingxing.io/en/event/event-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -128,7 +158,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-2/"
+                href="https://xingxing.io/en/event/event-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -143,7 +173,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-3/"
+                href="https://xingxing.io/en/event/event-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,7 +188,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-4/"
+                href="https://xingxing.io/en/event/event-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -173,7 +203,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-5/"
+                href="https://xingxing.io/en/event/event-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -188,7 +218,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-6/"
+                href="https://xingxing.io/en/event/event-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -203,7 +233,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/deep-learning/"
+                href="https://xingxing.io/en/categories/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,7 +253,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/"
+                href="https://xingxing.io/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,7 +268,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-1/"
+                href="https://xingxing.io/en/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -248,7 +283,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-2/"
+                href="https://xingxing.io/en/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -263,7 +298,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-3/"
+                href="https://xingxing.io/en/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -278,7 +313,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-4/"
+                href="https://xingxing.io/en/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -293,7 +328,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-5/"
+                href="https://xingxing.io/en/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -308,7 +343,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-6/"
+                href="https://xingxing.io/en/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -323,7 +358,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/eco/"
+                href="https://xingxing.io/en/tags/eco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/eco/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -338,7 +378,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/eco-system/"
+                href="https://xingxing.io/en/categories/eco-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/eco-system/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -353,7 +398,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/education/"
+                href="https://xingxing.io/en/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/education/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -368,7 +418,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/education-system/"
+                href="https://xingxing.io/en/categories/education-system/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/education-system/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -383,7 +438,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/english/"
+                href="https://xingxing.io/en/tags/english/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/english/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -398,7 +458,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/english-learning/"
+                href="https://xingxing.io/en/categories/english-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/english-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -413,7 +478,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-1/"
+                href="https://xingxing.io/en/research/research-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -428,7 +493,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-2/"
+                href="https://xingxing.io/en/research/research-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -443,7 +508,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-3/"
+                href="https://xingxing.io/en/research/research-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -458,7 +523,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-4/"
+                href="https://xingxing.io/en/research/research-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -473,7 +538,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-5/"
+                href="https://xingxing.io/en/research/research-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -488,7 +553,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-6/"
+                href="https://xingxing.io/en/research/research-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -503,7 +568,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-3/"
+                href="https://xingxing.io/en/course/course-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -518,7 +583,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-4/"
+                href="https://xingxing.io/en/course/course-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -533,7 +598,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/mathmatics-learning/"
+                href="https://xingxing.io/en/categories/mathmatics-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/mathmatics-learning/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -548,7 +618,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-2/"
+                href="https://xingxing.io/en/course/course-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -563,7 +633,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-1/"
+                href="https://xingxing.io/en/notice/notice-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -578,7 +648,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-2/"
+                href="https://xingxing.io/en/notice/notice-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -593,7 +663,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-3/"
+                href="https://xingxing.io/en/notice/notice-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -608,7 +678,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-4/"
+                href="https://xingxing.io/en/notice/notice-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -623,7 +693,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-5/"
+                href="https://xingxing.io/en/notice/notice-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -638,7 +708,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-6/"
+                href="https://xingxing.io/en/notice/notice-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -653,7 +723,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/"
+                href="https://xingxing.io/en/course/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -668,7 +738,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/"
+                href="https://xingxing.io/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -683,7 +753,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/"
+                href="https://xingxing.io/en/research/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -698,7 +768,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/"
+                href="https://xingxing.io/en/notice/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -713,7 +783,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-1/"
+                href="https://xingxing.io/en/course/course-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -728,7 +798,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/rules/"
+                href="https://xingxing.io/en/tags/rules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/rules/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -743,7 +818,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/"
+                href="https://xingxing.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -758,7 +838,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-6/"
+                href="https://xingxing.io/en/course/course-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -772,7 +852,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/alex-rook/"
+                href="https://xingxing.io/en/teacher/alex-rook/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -786,7 +866,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/author/"
+                href="https://xingxing.io/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -800,7 +880,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/"
+                href="https://xingxing.io/en/scholarship/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -814,7 +894,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/clark-malik/"
+                href="https://xingxing.io/en/teacher/clark-malik/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -828,7 +908,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/devid-luis/"
+                href="https://xingxing.io/en/teacher/devid-luis/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -842,7 +922,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/duis-rio/"
+                href="https://xingxing.io/en/teacher/duis-rio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -856,7 +936,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-1/"
+                href="https://xingxing.io/en/scholarship/scholarship-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -870,7 +950,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-2/"
+                href="https://xingxing.io/en/scholarship/scholarship-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -884,7 +964,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-3/"
+                href="https://xingxing.io/en/scholarship/scholarship-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -898,7 +978,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/jacke-mastio/"
+                href="https://xingxing.io/en/teacher/jacke-mastio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -912,7 +992,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/author/john-doe/"
+                href="https://xingxing.io/en/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -926,7 +1006,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/author/mark-dinn/"
+                href="https://xingxing.io/en/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -940,7 +1020,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/"
+                href="https://xingxing.io/en/teacher/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -954,7 +1034,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/zim-cook/"
+                href="https://xingxing.io/en/teacher/zim-cook/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -968,7 +1048,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/about/"
+                href="https://xingxing.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -982,7 +1062,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/contact/"
+                href="https://xingxing.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"

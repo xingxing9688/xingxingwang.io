@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xingxing.io/</loc>
+    <loc>https://xingxing.io/en/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,13 +12,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/"
+                href="https://xingxing.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/</loc>
+    <loc>https://xingxing.io/en/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +33,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/"
+                href="https://xingxing.io/en/event/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-1/</loc>
+    <loc>https://xingxing.io/en/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -43,12 +48,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-1/"
+                href="https://xingxing.io/en/event/event-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-2/</loc>
+    <loc>https://xingxing.io/en/event/event-2/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -58,12 +63,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-2/"
+                href="https://xingxing.io/en/event/event-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-3/</loc>
+    <loc>https://xingxing.io/en/event/event-3/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -73,12 +78,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-3/"
+                href="https://xingxing.io/en/event/event-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-4/</loc>
+    <loc>https://xingxing.io/en/event/event-4/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -88,12 +93,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-4/"
+                href="https://xingxing.io/en/event/event-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-5/</loc>
+    <loc>https://xingxing.io/en/event/event-5/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -103,12 +108,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-5/"
+                href="https://xingxing.io/en/event/event-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-6/</loc>
+    <loc>https://xingxing.io/en/event/event-6/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -118,12 +123,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/event/event-6/"
+                href="https://xingxing.io/en/event/event-6/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/advice/</loc>
+    <loc>https://xingxing.io/en/tags/advice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -132,13 +137,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/advice/"
+                href="https://xingxing.io/en/tags/advice/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/ai/</loc>
+    <loc>https://xingxing.io/en/tags/ai/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -147,13 +157,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/ai/"
+                href="https://xingxing.io/en/tags/ai/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-5/</loc>
+    <loc>https://xingxing.io/en/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -163,12 +178,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-5/"
+                href="https://xingxing.io/en/course/course-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-3/</loc>
+    <loc>https://xingxing.io/en/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -178,12 +193,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-3/"
+                href="https://xingxing.io/en/course/course-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/automation/</loc>
+    <loc>https://xingxing.io/en/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -192,13 +207,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/automation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/automation/"
+                href="https://xingxing.io/en/tags/automation/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/automation-system/</loc>
+    <loc>https://xingxing.io/en/categories/automation-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -207,13 +227,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/automation-system/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/automation-system/"
+                href="https://xingxing.io/en/categories/automation-system/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/</loc>
+    <loc>https://xingxing.io/en/categories/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -222,13 +247,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/"
+                href="https://xingxing.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/deep-learning/</loc>
+    <loc>https://xingxing.io/en/categories/deep-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -237,13 +267,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/deep-learning/"
+                href="https://xingxing.io/en/categories/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/eco/</loc>
+    <loc>https://xingxing.io/en/tags/eco/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -252,13 +287,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/eco/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/eco/"
+                href="https://xingxing.io/en/tags/eco/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/eco-system/</loc>
+    <loc>https://xingxing.io/en/categories/eco-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -267,13 +307,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/eco-system/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/eco-system/"
+                href="https://xingxing.io/en/categories/eco-system/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/education/</loc>
+    <loc>https://xingxing.io/en/tags/education/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -282,13 +327,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/education/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/education/"
+                href="https://xingxing.io/en/tags/education/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/education-system/</loc>
+    <loc>https://xingxing.io/en/categories/education-system/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -297,13 +347,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/education-system/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/education-system/"
+                href="https://xingxing.io/en/categories/education-system/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-1/</loc>
+    <loc>https://xingxing.io/en/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -313,12 +368,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-1/"
+                href="https://xingxing.io/en/blog/blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-2/</loc>
+    <loc>https://xingxing.io/en/blog/blog-post-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -328,12 +383,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-2/"
+                href="https://xingxing.io/en/blog/blog-post-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-3/</loc>
+    <loc>https://xingxing.io/en/blog/blog-post-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -343,12 +398,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-3/"
+                href="https://xingxing.io/en/blog/blog-post-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-4/</loc>
+    <loc>https://xingxing.io/en/blog/blog-post-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -358,12 +413,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-4/"
+                href="https://xingxing.io/en/blog/blog-post-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-5/</loc>
+    <loc>https://xingxing.io/en/blog/blog-post-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -373,12 +428,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-5/"
+                href="https://xingxing.io/en/blog/blog-post-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-6/</loc>
+    <loc>https://xingxing.io/en/blog/blog-post-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -388,12 +443,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/blog-post-6/"
+                href="https://xingxing.io/en/blog/blog-post-6/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/english/</loc>
+    <loc>https://xingxing.io/en/tags/english/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -402,13 +457,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/english/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/english/"
+                href="https://xingxing.io/en/tags/english/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/english-learning/</loc>
+    <loc>https://xingxing.io/en/categories/english-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -417,13 +477,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/english-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/english-learning/"
+                href="https://xingxing.io/en/categories/english-learning/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-1/</loc>
+    <loc>https://xingxing.io/en/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -433,12 +498,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-1/"
+                href="https://xingxing.io/en/research/research-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-2/</loc>
+    <loc>https://xingxing.io/en/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -448,12 +513,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-2/"
+                href="https://xingxing.io/en/research/research-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-3/</loc>
+    <loc>https://xingxing.io/en/research/research-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -463,12 +528,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-3/"
+                href="https://xingxing.io/en/research/research-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-4/</loc>
+    <loc>https://xingxing.io/en/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -478,12 +543,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-4/"
+                href="https://xingxing.io/en/research/research-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-5/</loc>
+    <loc>https://xingxing.io/en/research/research-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -493,12 +558,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-5/"
+                href="https://xingxing.io/en/research/research-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-6/</loc>
+    <loc>https://xingxing.io/en/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -508,12 +573,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/research-6/"
+                href="https://xingxing.io/en/research/research-6/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-4/</loc>
+    <loc>https://xingxing.io/en/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -523,12 +588,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-4/"
+                href="https://xingxing.io/en/course/course-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/</loc>
+    <loc>https://xingxing.io/en/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -538,12 +603,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/blog/"
+                href="https://xingxing.io/en/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-2/</loc>
+    <loc>https://xingxing.io/en/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -553,12 +618,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-2/"
+                href="https://xingxing.io/en/course/course-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/categories/mathmatics-learning/</loc>
+    <loc>https://xingxing.io/en/categories/mathmatics-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -567,13 +632,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/categories/mathmatics-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/categories/mathmatics-learning/"
+                href="https://xingxing.io/en/categories/mathmatics-learning/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/</loc>
+    <loc>https://xingxing.io/en/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -583,12 +653,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/"
+                href="https://xingxing.io/en/notice/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/</loc>
+    <loc>https://xingxing.io/en/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -598,12 +668,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/"
+                href="https://xingxing.io/en/course/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/</loc>
+    <loc>https://xingxing.io/en/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -613,12 +683,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/research/"
+                href="https://xingxing.io/en/research/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-1/</loc>
+    <loc>https://xingxing.io/en/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -628,12 +698,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-1/"
+                href="https://xingxing.io/en/course/course-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/rules/</loc>
+    <loc>https://xingxing.io/en/tags/rules/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -642,13 +712,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/rules/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/rules/"
+                href="https://xingxing.io/en/tags/rules/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/tags/</loc>
+    <loc>https://xingxing.io/en/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -657,13 +732,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://xingxing.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/tags/"
+                href="https://xingxing.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-1/</loc>
+    <loc>https://xingxing.io/en/notice/notice-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -673,12 +753,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-1/"
+                href="https://xingxing.io/en/notice/notice-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-2/</loc>
+    <loc>https://xingxing.io/en/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -688,12 +768,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-2/"
+                href="https://xingxing.io/en/notice/notice-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-3/</loc>
+    <loc>https://xingxing.io/en/notice/notice-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -703,12 +783,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-3/"
+                href="https://xingxing.io/en/notice/notice-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-4/</loc>
+    <loc>https://xingxing.io/en/notice/notice-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -718,12 +798,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-4/"
+                href="https://xingxing.io/en/notice/notice-4/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-5/</loc>
+    <loc>https://xingxing.io/en/notice/notice-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -733,12 +813,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-5/"
+                href="https://xingxing.io/en/notice/notice-5/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-6/</loc>
+    <loc>https://xingxing.io/en/notice/notice-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -748,12 +828,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/notice/notice-6/"
+                href="https://xingxing.io/en/notice/notice-6/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-6/</loc>
+    <loc>https://xingxing.io/en/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -763,12 +843,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/course/course-6/"
+                href="https://xingxing.io/en/course/course-6/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/about/</loc>
+    <loc>https://xingxing.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -777,12 +857,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/about/"
+                href="https://xingxing.io/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/contact/</loc>
+    <loc>https://xingxing.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -791,12 +871,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/contact/"
+                href="https://xingxing.io/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/alex-rook/</loc>
+    <loc>https://xingxing.io/en/teacher/alex-rook/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -805,12 +885,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/alex-rook/"
+                href="https://xingxing.io/en/teacher/alex-rook/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/author/</loc>
+    <loc>https://xingxing.io/en/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -819,12 +899,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/author/"
+                href="https://xingxing.io/en/author/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/scholarship-1/</loc>
+    <loc>https://xingxing.io/en/scholarship/scholarship-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -833,12 +913,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-1/"
+                href="https://xingxing.io/en/scholarship/scholarship-1/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/scholarship-2/</loc>
+    <loc>https://xingxing.io/en/scholarship/scholarship-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -847,12 +927,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-2/"
+                href="https://xingxing.io/en/scholarship/scholarship-2/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/scholarship-3/</loc>
+    <loc>https://xingxing.io/en/scholarship/scholarship-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -861,12 +941,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-3/"
+                href="https://xingxing.io/en/scholarship/scholarship-3/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/clark-malik/</loc>
+    <loc>https://xingxing.io/en/teacher/clark-malik/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -875,12 +955,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/clark-malik/"
+                href="https://xingxing.io/en/teacher/clark-malik/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/devid-luis/</loc>
+    <loc>https://xingxing.io/en/teacher/devid-luis/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -889,12 +969,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/devid-luis/"
+                href="https://xingxing.io/en/teacher/devid-luis/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/duis-rio/</loc>
+    <loc>https://xingxing.io/en/teacher/duis-rio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -903,12 +983,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/duis-rio/"
+                href="https://xingxing.io/en/teacher/duis-rio/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/jacke-mastio/</loc>
+    <loc>https://xingxing.io/en/teacher/jacke-mastio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -917,12 +997,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/jacke-mastio/"
+                href="https://xingxing.io/en/teacher/jacke-mastio/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/author/john-doe/</loc>
+    <loc>https://xingxing.io/en/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -931,12 +1011,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/author/john-doe/"
+                href="https://xingxing.io/en/author/john-doe/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/author/mark-dinn/</loc>
+    <loc>https://xingxing.io/en/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -945,12 +1025,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/author/mark-dinn/"
+                href="https://xingxing.io/en/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/</loc>
+    <loc>https://xingxing.io/en/teacher/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -959,12 +1039,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/"
+                href="https://xingxing.io/en/teacher/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/</loc>
+    <loc>https://xingxing.io/en/scholarship/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -973,12 +1053,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/scholarship/"
+                href="https://xingxing.io/en/scholarship/"
                 />
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/zim-cook/</loc>
+    <loc>https://xingxing.io/en/teacher/zim-cook/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -987,7 +1067,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xingxing.io/teacher/zim-cook/"
+                href="https://xingxing.io/en/teacher/zim-cook/"
                 />
   </url>
   
