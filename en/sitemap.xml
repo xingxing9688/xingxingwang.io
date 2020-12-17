@@ -18,108 +18,43 @@
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/</loc>
+    <loc>https://xingxing.io/english/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-1/</loc>
+    <loc>https://xingxing.io/english/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/event-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/event-1/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-2/</loc>
+    <loc>https://xingxing.io/english/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/event-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/event-2/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-3/</loc>
+    <loc>https://xingxing.io/english/event/event-2/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/event-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/event-3/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-4/</loc>
+    <loc>https://xingxing.io/english/event/event-3/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/event-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/event-4/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-5/</loc>
+    <loc>https://xingxing.io/english/event/event-4/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/event-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/event-5/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/event/event-6/</loc>
+    <loc>https://xingxing.io/english/event/event-5/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/event/event-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/event/event-6/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://xingxing.io/english/event/event-6/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
@@ -153,33 +88,13 @@
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-5/</loc>
+    <loc>https://xingxing.io/english/course/course-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/course-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/course-5/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-3/</loc>
+    <loc>https://xingxing.io/english/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/course-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/course-3/"
-                />
   </url>
   
   <url>
@@ -303,93 +218,33 @@
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-1/</loc>
+    <loc>https://xingxing.io/english/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/blog-post-1/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-2/</loc>
+    <loc>https://xingxing.io/english/blog/blog-post-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/blog-post-2/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-3/</loc>
+    <loc>https://xingxing.io/english/blog/blog-post-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/blog-post-3/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-4/</loc>
+    <loc>https://xingxing.io/english/blog/blog-post-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/blog-post-4/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-5/</loc>
+    <loc>https://xingxing.io/english/blog/blog-post-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/blog-post-5/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/blog-post-6/</loc>
+    <loc>https://xingxing.io/english/blog/blog-post-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/blog-post-6/"
-                />
   </url>
   
   <url>
@@ -423,138 +278,48 @@
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-1/</loc>
+    <loc>https://xingxing.io/english/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/research-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/research-1/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-2/</loc>
+    <loc>https://xingxing.io/english/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/research-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/research-2/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-3/</loc>
+    <loc>https://xingxing.io/english/research/research-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/research-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/research-3/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-4/</loc>
+    <loc>https://xingxing.io/english/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/research-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/research-4/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-5/</loc>
+    <loc>https://xingxing.io/english/research/research-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/research-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/research-5/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/research-6/</loc>
+    <loc>https://xingxing.io/english/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/research-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/research-6/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-4/</loc>
+    <loc>https://xingxing.io/english/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/course-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/course-4/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/blog/</loc>
+    <loc>https://xingxing.io/english/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/blog/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-2/</loc>
+    <loc>https://xingxing.io/english/course/course-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/course-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/course-2/"
-                />
   </url>
   
   <url>
@@ -573,63 +338,23 @@
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/</loc>
+    <loc>https://xingxing.io/english/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/</loc>
+    <loc>https://xingxing.io/english/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/research/</loc>
+    <loc>https://xingxing.io/english/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/research/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-1/</loc>
+    <loc>https://xingxing.io/english/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/course-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/course-1/"
-                />
   </url>
   
   <url>
@@ -663,332 +388,98 @@
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-1/</loc>
+    <loc>https://xingxing.io/english/notice/notice-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/notice-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/notice-1/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-2/</loc>
+    <loc>https://xingxing.io/english/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/notice-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/notice-2/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-3/</loc>
+    <loc>https://xingxing.io/english/notice/notice-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/notice-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/notice-3/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-4/</loc>
+    <loc>https://xingxing.io/english/notice/notice-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/notice-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/notice-4/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-5/</loc>
+    <loc>https://xingxing.io/english/notice/notice-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/notice-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/notice-5/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/notice/notice-6/</loc>
+    <loc>https://xingxing.io/english/notice/notice-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/notice/notice-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/notice/notice-6/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/course/course-6/</loc>
+    <loc>https://xingxing.io/english/course/course-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/course/course-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/course/course-6/"
-                />
   </url>
   
   <url>
-    <loc>https://xingxing.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/about/"
-                />
+    <loc>https://xingxing.io/english/about/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/contact/"
-                />
+    <loc>https://xingxing.io/english/contact/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/alex-rook/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/alex-rook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/alex-rook/"
-                />
+    <loc>https://xingxing.io/english/teacher/alex-rook/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/author/"
-                />
+    <loc>https://xingxing.io/english/scholarship/scholarship-1/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/scholarship-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/scholarship/scholarship-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-1/"
-                />
+    <loc>https://xingxing.io/english/scholarship/scholarship-2/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/scholarship-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/scholarship/scholarship-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-2/"
-                />
+    <loc>https://xingxing.io/english/scholarship/scholarship-3/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/scholarship-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/scholarship/scholarship-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/scholarship/scholarship-3/"
-                />
+    <loc>https://xingxing.io/english/teacher/clark-malik/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/clark-malik/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/clark-malik/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/clark-malik/"
-                />
+    <loc>https://xingxing.io/english/teacher/devid-luis/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/devid-luis/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/devid-luis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/devid-luis/"
-                />
+    <loc>https://xingxing.io/english/teacher/duis-rio/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/duis-rio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/duis-rio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/duis-rio/"
-                />
+    <loc>https://xingxing.io/english/teacher/jacke-mastio/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/jacke-mastio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/jacke-mastio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/jacke-mastio/"
-                />
+    <loc>https://xingxing.io/english/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/author/john-doe/"
-                />
+    <loc>https://xingxing.io/english/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/author/mark-dinn/"
-                />
+    <loc>https://xingxing.io/english/teacher/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/teacher/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/"
-                />
+    <loc>https://xingxing.io/english/scholarship/</loc>
   </url>
   
   <url>
-    <loc>https://xingxing.io/scholarship/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/scholarship/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/scholarship/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xingxing.io/teacher/zim-cook/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xingxing.io/zh/teacher/zim-cook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xingxing.io/teacher/zim-cook/"
-                />
+    <loc>https://xingxing.io/english/teacher/zim-cook/</loc>
   </url>
   
 </urlset>
